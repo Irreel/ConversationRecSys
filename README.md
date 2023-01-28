@@ -1,4 +1,5 @@
 # ConversationRecSys
+The repo is temporarily public for application
 ## Background
 In traditional recommend systems, models use historical user data to recommend from one side.
 However, conversational recommend systems show advantages in scenarios like cold-start and communications with the disabled.
@@ -9,7 +10,11 @@ The conversation itself does not contain enough background information to unders
 What's more, natural language interaction has a wide variety among individuals.
 
 ## Contribution
-Led a three-person team and implemented the natural langage generation model and semantic fusion/loss function in the training part. Improved the generation language quality from *Distinct 0.6204* to *Distinct 0.9304*.
+[Qinyi Zhao](https://irreel.github.io) Led a three-person team and implemented the natural langage generation model and semantic fusion/loss function in the training part. Improved the generation language quality from *Distinct 0.6204* to *Distinct 0.9304*.
+
+[Shuaizhen Hou](https://github.com/hsz-big-data) Responsible for data preprocession.
+
+[Yuexiao Liang]() Implemented the recommend module and semantic fusion/loss function in the training part.
 
 ## Setup
 Python3.7
