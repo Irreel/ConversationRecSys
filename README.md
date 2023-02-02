@@ -54,7 +54,7 @@ python run.py --is_finetune=True
 *test_output.txt* :		Model-generationed response
 
 ## Evaluation
-![After improvement](https://github.com/Irreel/ConversationRecSys/blob/main/eval.png)
+![After improvement](eval.png)
 
 Language quality *Distinct*: 0.9304
 
