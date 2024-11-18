@@ -10,7 +10,7 @@ The conversation itself does not contain enough background information to unders
 What's more, natural language interaction has a wide variety among individuals.
 
 ## Contribution
-[Qinyi Zhao](https://irreel.github.io) Led a three-person team and implemented the natural langage generation model and semantic fusion/loss function in the training part. Improved the generation language quality from *Distinct 0.6204* to *Distinct 0.9304*.
+[Anthea Qinyi Zhao](https://irreel.github.io) Led a three-person team and implemented the natural langage generation model and semantic fusion/loss function in the training part. Improved the generation language quality from *Distinct 0.6204* to *Distinct 0.9304*.
 
 [Shuaizhen Hou](https://github.com/hsz-big-data) Responsible for data preprocession.
 
